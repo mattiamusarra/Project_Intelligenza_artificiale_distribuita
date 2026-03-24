@@ -1,0 +1,13 @@
+ Log transazioni - avvio sistema
+2026-03-24 11:09:12.394 | ATM2 | WITHDRAW   |importo:   200.00 € | saldo prima:  1000.00 € |saldo dopo:   800.00 €
+2026-03-24 11:09:12.802 | ATM3 | DEPOSIT    |importo:   100.00 € | saldo prima:   800.00 € |saldo dopo:   900.00 €
+2026-03-24 11:09:13.210 | ATM4 | WITHDRAW   |importo:   500.00 € | saldo prima:   900.00 € |saldo dopo:   400.00 €
+2026-03-24 11:09:14.020 | ATM2 | WITHDRAW   |importo:    50.00 € | saldo prima:   400.00 € |saldo dopo:   350.00 €
+2026-03-24 11:09:14.427 | ATM3 | DEPOSIT    |importo:   200.00 € | saldo prima:   350.00 € |saldo dopo:   550.00 €
+2026-03-24 11:09:14.830 | ATM4 | WITHDRAW   |importo:   200.00 € | saldo prima:   550.00 € |saldo dopo:   350.00 €
+2026-03-24 11:09:15.643 | ATM2 | WITHDRAW   |importo:    30.00 € | saldo prima:   350.00 € |saldo dopo:   320.00 €
+2026-03-24 11:09:16.049 | ATM3 | DEPOSIT    |importo:   100.00 € | saldo prima:   320.00 € |saldo dopo:   420.00 €
+2026-03-24 11:09:16.453 | ATM4 | WITHDRAW   |importo:    45.00 € | saldo prima:   420.00 € |saldo dopo:   375.00 €
+2026-03-24 11:09:17.266 | ATM2 | WITHDRAW   |importo:    25.00 € | saldo prima:   375.00 € |saldo dopo:   350.00 €
+2026-03-24 11:09:17.670 | ATM3 | DEPOSIT    |importo:    50.00 € | saldo prima:   350.00 € |saldo dopo:   400.00 €
+2026-03-24 11:09:18.076 | ATM4 | WITHDRAW   |importo:    35.00 € | saldo prima:   400.00 € |saldo dopo:   365.00 €
